@@ -1,6 +1,6 @@
 
 # Using Python FastAPI for OpenAI Proxy
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLyonLeopard%2Fopenai-proxy-vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkirill-rdgaming%2Fopenai-proxy-vercel)
 > If you are seeking a similar service deployed with Cloudflare Worker, you may want to try [openai-cloudflare](https://github.com/janlay/openai-cloudflare), which inspired this project.
 
 ### Compared with the original project
